@@ -2,7 +2,7 @@
 
 <p align="center"><img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/></p>
 
-Registro de todos os jogos já apresentados no canal Mael Lab  
+<h4 align="center"> Registro de todos os jogos já apresentados no canal Mael Lab </h4>
 
 <h4 align="center">     :construction:  Projeto em construção  :construction:</h4>
 
