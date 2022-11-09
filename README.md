@@ -6,4 +6,4 @@
 
 <h4 align="center">     :construction:  Projeto em construção  :construction:</h4>
 
-Aqui seão registrados os jogos já apresentados no canal de games, para controle e entendimento do que ainda est por ser apresentado. ESTE PROJETO ESTA EM BETA
+Aqui seão registrados os jogos já apresentados no canal de games, para controle e entendimento do que ainda está por ser apresentado. ESTE PROJETO ESTA EM BETA
